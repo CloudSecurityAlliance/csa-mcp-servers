@@ -1,0 +1,6 @@
+brave-search
+fetch
+filesystem
+git
+sequentialthinking
+source-modelcontextprotocol-servers.txt
